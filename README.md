@@ -12,14 +12,15 @@ wrappers to facilitate the use of
 
 ---
 
-## [Live Demo](http://erikras.github.io/redux-form-material-ui/) :eyes:
+This is a fork for the library created by erikras please visit the project original
+site for more information [Original Site](https://github.com/erikras/redux-form-material-ui)
 
 ## Installation
 
 Using [npm](https://www.npmjs.org/):
 
 ```bash
-  $ npm install --save redux-form-material-ui
+  $ npm install --save redux-form-material-ui-mad
 ```
 
 ## Available Components
