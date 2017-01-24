@@ -1,20 +1,16 @@
 # redux-form-material-ui
 ---
-[![NPM Version](https://img.shields.io/npm/v/redux-form-material-ui.svg?style=flat-square)](https://www.npmjs.com/package/redux-form-material-ui)
-[![NPM Downloads](https://img.shields.io/npm/dm/redux-form-material-ui.svg?style=flat-square)](https://www.npmjs.com/package/redux-form-material-ui)
-[![Build Status](https://img.shields.io/travis/erikras/redux-form-material-ui/master.svg?style=flat-square)](https://travis-ci.org/erikras/redux-form-material-ui)
-[![codecov.io](https://codecov.io/github/erikras/redux-form-material-ui/coverage.svg?branch=master)](https://codecov.io/github/erikras/redux-form-material-ui?branch=master)
+[![NPM Version](https://img.shields.io/npm/v/redux-form-material-ui-mad.svg?style=flat-square)](https://www.npmjs.com/package/redux-form-material-ui-mad)
+[![NPM Downloads](https://img.shields.io/npm/dm/redux-form-material-ui-mad.svg?style=flat-square)](https://www.npmjs.com/package/redux-form-material-ui-mad)
+[![Build Status](https://img.shields.io/travis/mauriciojovel/redux-form-material-ui/master.svg?style=flat-square)](https://travis-ci.org/erikras/redux-form-material-ui)
+[![codecov.io](https://codecov.io/github/mauriciojovel/redux-form-material-ui/coverage.svg?branch=master)](https://codecov.io/github/erikras/redux-form-material-ui?branch=master)
 
-[`redux-form-material-ui`](https://github.com/erikras/redux-form-material-ui) is a set of
-wrappers to facilitate the use of
+[`redux-form-material-ui-mad`](https://github.com/mauricio/redux-form-material-ui) is a fork of
+from the library [`redux-form-material-ui`](https://github.com/erikras/redux-form-material-ui)
 [`material-ui`](https://github.com/callemall/material-ui) components with
 [`redux-form`](https://github.com/erikras/redux-form).
 
 ---
-
-This is a fork for the library created by erikras please visit the project original
-site for more information [Original Site](https://github.com/erikras/redux-form-material-ui)
-
 ## Installation
 
 Using [npm](https://www.npmjs.org/):
